@@ -1,30 +1,18 @@
-This project was part of my Test in Nethone 
+**This project was part of my Test in Nethone**
+
 ## Subject: Recruitment Task for Junior Customer Engineer - Database design and SQL query
 
-The project is a test for Nethone, in which it was requested to do two things: Design a database (with some rules and limits, which you can see in the document ''Junior CE recruitment tasks.pdf'') and write some SQL query (based again in the document ''Junior CE recruitment tasks.pdf'') 
+The project is a test for Nethone, in which it was requested to do two things: Design a database (with some rules and limits, which you can see in the document "Junior CE recruitment tasks.pdf") and write some SQL query (based again in the document "Junior CE recruitment tasks.pdf") 
 
 This folder contains the following: 
 
-1) Problem Statement : It defines the original problem. 
-2) Relational Schema: This is the relational schema diagram of the public library database as defined in the problem statement. 
-3) User Guide: Constains explanations and working project screenshots. 
-4) Create_Table.sql : Queries to create tables. 
-5) Populate_Table.sql: Queries to populate tables. 
-6) Insert_Queries_Generator.xlsx: Spreadsheet used to generate insert queries. 
-7) Program_queries.sql: Queries mentioned in Deliverable 3 Problem statement. 
-8) mylib.py: Python code for front end. 
+1) **Junior CE recruitment tasks.pdf** : document of the test
+2) **Nethone Test Diagram.pdf** : Diagram made for the first task (database design) in pdf format
+3) **Nethone Teste 01.mwb** : Diagram made for the first task (database design) in mwb format (Mysql workbench model)
+4) **SQL query Nethone Test.sql** : Query made for second task (SQL) in SQL format (Mysql format used, but since I didn't use any more complex mysql query, it can be use in any SQL-RDBMS system)
+5) **SQL query Nethone test.txt** : Same with SQL query Nethone test.sql but in .txt file
 
-## Prerequites
-1) PHPMyAdmin for MySQL. Get Free access to a PHPMyAdmin on [Pro Free Host](https://profreehost.com/)
-2) Python 3.x 
+## Prerequites / instructions
+1) for first task, if want to view in mwb format, install mysql workbench (last version) and open in top left "file" and then "open model"
+2) for second task, if want to view directly in mysql, install workbench (last version) and open in top left "file" and then "open SQL script"
 
-## Instructions to run
-1) Clone this repository on your computer. 
-2) Create a New database on your MySQL backend. 
-3) Run queries Create_Table.sql and Populate_Table.sql on your newly created Database. 
-4) Change the query connection parameters from lines 7 through 11 in the my_lib.py file. Add your database and user information. 
-5) Run the my_lib.py program.
-
-
-### Next Steps for the project: 
-To create a proper web UI and host it on Google Cloud 
