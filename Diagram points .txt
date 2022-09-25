@@ -1,0 +1,8 @@
+- User_Reader table has attribute called Email, witch i put varchar(50) because the probability of someone having an email with more than 50 characters… is really rare.
+
+- CEP is the same for ZIP code in brazil, from that we can get street, district, city and state
+
+- ISBN has more than 1 length for its number (it depends on the country), so i put INT 17, because some ISBN from 50 - 90 decade has 13 characters and in brazil some have 17 caracters
+Actualy it was pretty interesting to study ISBN's... they have a large history of changes around the world.
+
+- Mysql dosent have boolean it self, they boolean is tinyint and can be limited 1 to 255 value
