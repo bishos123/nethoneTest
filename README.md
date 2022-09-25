@@ -1,7 +1,7 @@
-This project was part of my coursework at NJIT. 
-## Subject: CS 631 - Database Management Systems Design. 
+This project was part of my Test in Nethone 
+## Subject: Recruitment Task for Junior Customer Engineer - Database design and SQL query
 
-The focus of this project was writing strong SQL Queries. UI was not the main focus of the project. 
+The project is a test for Nethone, in which it was requested to do two things: Design a database (with some rules and limits, which you can see in the document ''Junior CE recruitment tasks.pdf'') and write some SQL query (based again in the document ''Junior CE recruitment tasks.pdf'') 
 
 This folder contains the following: 
 
