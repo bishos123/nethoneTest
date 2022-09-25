@@ -11,6 +11,7 @@ This folder contains the following:
 3) **Nethone Teste 01.mwb** : Diagram made for the first task (database design) in mwb format (Mysql workbench model)
 4) **SQL query Nethone Test.sql** : Query made for second task (SQL) in SQL format (Mysql format used, but since I didn't use any more complex mysql query, it can be use in any SQL-RDBMS system)
 5) **SQL query Nethone test.txt** : Same with SQL query Nethone test.sql but in .txt file
+6) **Diagram points.txt** : Some points and arguments i made to explain some data in first task diagram
 
 ## Prerequites / instructions
 1) for first task, if want to view in mwb format, install mysql workbench (last version) and open in top left "file" and then "open model"
